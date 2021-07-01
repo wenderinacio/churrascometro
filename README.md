@@ -1,6 +1,6 @@
 # churrascometro
 
-![barbecue](https://user-images.githubusercontent.com/85710652/124196400-b7e92880-daa2-11eb-9e81-ea71319e1e5c.png)
+![barbecue](https://user-images.githubusercontent.com/85710652/124196571-131b1b00-daa3-11eb-8084-c4f870e998ee.png)
 
 Churrascômetro é uma ferramenta que visa auxiliar o usuário a calcular a quantidade necessária de comidas e bebidas para o seu churrasco.
 
