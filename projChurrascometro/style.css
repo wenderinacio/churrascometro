@@ -1,0 +1,49 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Chakra Petch', sans-serif;}
+
+body{
+    background-image: url(/assets/barbecue.jpg);
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    background-color: rgba(255,255,255,0.9);
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+p{padding: 20px;}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+}
+
+button{
+    width: 100%;
+    padding: 15px 10px;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    background-color: orange;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{background-color: black; color: white;}
+
+#resultado h2{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
