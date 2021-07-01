@@ -9,3 +9,5 @@ Este projeto foi feito durante o módulo de JavaScript intermediário do curso P
 - HTML
 - CSS
 - JavaScript
+
+Meu perfil no LinkedIn : https://www.linkedin.com/in/wender-inacio-b0bba1211/
